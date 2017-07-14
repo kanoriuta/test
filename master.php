@@ -10,8 +10,6 @@ public function set() {
 }
 
 public function test() {
-=======
-public function test() {
 
 }
 
